@@ -1,4 +1,4 @@
-# Eldar Shlomi 205616634
+
 ##########################                    Import & Globals :                    ####################################
 import numpy as np
 
